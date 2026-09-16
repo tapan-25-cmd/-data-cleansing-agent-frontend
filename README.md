@@ -20,9 +20,10 @@ VITE_API_BASE_URL=https://api.example.com
 
 The backend must allow the frontend origin through its `FRONTEND_ORIGIN` setting.
 
+The complete product implementation plan and ADK architecture are maintained in the companion [backend repository documentation](https://github.com/tapan-25-cmd/data-cleansing-agent-backend/tree/main/docs).
+
 ## Validation
 
 ```bash
 npm run build
 ```
-
